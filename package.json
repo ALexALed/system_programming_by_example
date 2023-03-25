@@ -1,0 +1,17 @@
+{
+  "name": "system_programming_js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra-promise": "^1.0.1",
+    "glob-promise": "^6.0.2"
+  }
+}
